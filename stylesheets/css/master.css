@@ -1,0 +1,34 @@
+body {margin:0;}
+
+.navbar {
+  overflow: hidden;
+  background-color: lightblue;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  border-top: solid black 1px
+}
+
+.navbar a {
+  float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar img {
+  float: left;
+  padding: 14px 16px;
+  width: 2%;
+}
+
+.top_third img {
+  width: 100%;
+}
+
+.top_third h1 {
+  top: 10px;
+}
